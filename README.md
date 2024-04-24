@@ -1,5 +1,6 @@
 # EconResources
 Below you can find a collection of resources of textbooks, courses, lecture notes, and other materials that I have gathered over time (continue updating), especially for Labor Economics and some corresponding methodology.
+
 If you want to contribute to the list with your slides/notes or another publicly available one, please send me an email at ziyue.zhu [at] maastrichtuniversity [dot] nl, and I will be more than happy to add it to the list :)
 
 ### *Resource Table - Economics*
