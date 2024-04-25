@@ -5,7 +5,7 @@ If you want to contribute to the list with your slides/notes or another publicly
 
 ### *Economics Courses*
 | Item                                               | Year | Link                                                                                                                                        | 
-| :--------------------------------------------------| :----: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+| :--------------------------------------------------| :---------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | ScPo Structural Labor Economics                    | 2018 | [Course Page](https://floswald.github.io/ScPo-Labor/notes.html)                                                                             |
 | UAB/BSE Structural Microeconometrics               | NA   | [Joan Llull Website](https://joanllull.github.io/teaching.htm)                                                                              |
 | CMU Structural Econometrics                        | NA   | [Robert A. Miller ComLabGames](https://comlabgames.com/structuraleconometrics/)                                                             |
@@ -21,8 +21,8 @@ If you want to contribute to the list with your slides/notes or another publicly
 ---
 
 ### *Books*
-| Item                                         | Year | Detailed Information                                                                                                                                        | 
-| :--------------------------------------------| :----: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+| Item                                               | Year | Detailed Information                                                                                                                                        | 
+| :--------------------------------------------------| :----: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | Handbook of Labor Economics 4AB              | 2010 | Ashenfelter, Orley and Card, David, (2011), Handbook of Labor Economics, vol. 4A/4B, 1 ed., Elsevier                                        |
 | Labor Economics, 2nd Edition                 | 2014 | Labor Economics, Second Edition By Pierre Cahuc, Stéphane Carcillo and André Zylberberg                                                     |
 | Chicago Price Theory                         | 2019 | Chicago Price Theory, Sonia Jaffe, Robert Minton, Casey B. Mulligan, and Kevin M. Murphy                                                    |
