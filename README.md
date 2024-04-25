@@ -23,8 +23,8 @@ If you want to contribute to the list with your slides/notes or another publicly
 ### *Books*
 | Item                                               | Year | Detailed Information                                                                                                                                        | 
 | :--------------------------------------------------| :----: | :---------------------------------------------------------------------------------------------------------------------------------------: |
-| Handbook of Labor Economics 4AB              | 2010 | Ashenfelter, Orley and Card, David, (2011), Handbook of Labor Economics, vol. 4A/4B, 1 ed., Elsevier                                        |
-| Labor Economics, 2nd Edition                 | 2014 | Labor Economics, Second Edition By Pierre Cahuc, Stéphane Carcillo and André Zylberberg                                                     |
-| Chicago Price Theory                         | 2019 | Chicago Price Theory, Sonia Jaffe, Robert Minton, Casey B. Mulligan, and Kevin M. Murphy                                                    |
-| Oxford handbook of skill and training        | 2017 | Warhurst, C., Mayhew, K., Finegold, D., & Buchanan, J. (Eds.). (2017). The Oxford handbook of skills and training. Oxford University Press. |
+| Handbook of Labor Economics 4AB                    | 2010 | Ashenfelter, Orley and Card, David, (2011), Handbook of Labor Economics, vol. 4A/4B, 1 ed., Elsevier                                        |
+| Labor Economics, 2nd Edition                       | 2014 | Labor Economics, Second Edition By Pierre Cahuc, Stéphane Carcillo and André Zylberberg                                                     |
+| Chicago Price Theory                               | 2019 | Chicago Price Theory, Sonia Jaffe, Robert Minton, Casey B. Mulligan, and Kevin M. Murphy                                                    |
+| Oxford handbook of skill and training              | 2017 | Warhurst, C., Mayhew, K., Finegold, D., & Buchanan, J. (Eds.). (2017). The Oxford handbook of skills and training. Oxford University Press. |
 ---
