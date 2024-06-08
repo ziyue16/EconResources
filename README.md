@@ -41,7 +41,7 @@ If you want to contribute to the list with your slides/notes or another publicly
 
 ### *Books*
 | Item                                               | Year | Detailed Information                                                                                                                        | 
-| :--------------------------------------------------| :----: | :------------------------------------------------------------------------------------------------------------------------------: |
+| :--------------------------------------------------| :----: | :-----------------------------------------------------------------------------------------------------------------------: |
 | Handbook of Labor Economics 4AB                    | 2010 | Ashenfelter, Orley and Card, David, (2011), Handbook of Labor Economics, vol. 4A/4B, 1 ed., Elsevier                                        |
 | Labor Economics, 2nd Edition                       | 2014 | Labor Economics, Second Edition By Pierre Cahuc, Stéphane Carcillo and André Zylberberg                                                     |
 | Recursive Macroeconomic Theory                     | 2018 | Recursive Macroeconomic Theory, Fourth Edition, By Lars Ljungqvist and Thomas J. Sargent                                                    |
