@@ -24,6 +24,7 @@ If you want to contribute to the list with your slides/notes or another publicly
 | 28th Jerusalem School in Economic Theory on Mechanism Design | 2017 | [YouTube](https://www.youtube.com/playlist?list=PLTn74Qx5mPsRGmbUg8id_62BPv7ZMUQhl)                                               |
 | Oxford Topics in Mechanism Design                  | 2023 | [Ludvig Sinander](https://www.ludvigsinander.net/lecture_notes.html)                                                                        |
 | Stanford Lectures Notes on Algorithmic Game Theory | 2013 | [Tim Roughgarden](https://timroughgarden.org/f13/f13.pdf)                                                                                   |
+| BREAD-IGC PhD course on Environmental Economics    | 2023 ] [YouTube](https://www.youtube.com/watch?v=_E_MtP3MhXc&list=PLOeLh0sckp9R7kh50UkRNQvHNtJDg_AUS&index=2)                                      |
 ---
 
 ### *Methods*
