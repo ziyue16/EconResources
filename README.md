@@ -11,6 +11,7 @@ If you want to contribute to the list with your slides/notes or another publicly
 | UCL Applied Job Search Models                      | NA   | [Fabien Postel-Vinay](https://sites.google.com/site/fabienpostelvinay/teaching?authuser=0)                                                  |
 | UCopenhagen Household Behavior Over the Life Cycle | 2024 | [Github Page](https://github.com/ThomasHJorgensen/HouseholdBehaviorCourse)                                                                  |
 | UZH Course Program for Doctoral Students in Economics of Education | Each Year | [Link](https://www.educationeconomics.uzh.ch/en/Lehre/Aims.html)                                                       |
+| Lectures in Labor Economics                        | NA   | [Acemoglu & Autor](https://economics.mit.edu/sites/default/files/inline-files/Lectures%20in%20Labor%20Economics.pdf)                        |
 | MIT OpenCourseWare Labor Economics I               | 2017 | [Link](https://ocw.mit.edu/courses/14-661-labor-economics-i-fall-2017/pages/syllabus/)                                                      |
 | MIT OpenCourseWare Labor Economics II              | 2015 | [Link](https://ocw.mit.edu/courses/14-662-labor-economics-ii-spring-2015/)                                                                  |                                          
 | Stanford Labor Economics Syllabus                  | 2017 | [Direct Download](https://syllabus.stanford.edu/syllabus/downloadSyllabus?courseId=W17-ECON-247-01)                                         |
@@ -42,6 +43,7 @@ If you want to contribute to the list with your slides/notes or another publicly
 | :--------------------------------------------------| :----: | :------------------------------------------------------------------------------------------------------------------------------: |
 | Handbook of Labor Economics 4AB                    | 2010 | Ashenfelter, Orley and Card, David, (2011), Handbook of Labor Economics, vol. 4A/4B, 1 ed., Elsevier                                        |
 | Labor Economics, 2nd Edition                       | 2014 | Labor Economics, Second Edition By Pierre Cahuc, Stéphane Carcillo and André Zylberberg                                                     |
+| Recursive Macroeconomic Theory                     | 2018 | Recursive Macroeconomic Theory, Fourth Edition, By Lars Ljungqvist and Thomas J. Sargent                                                    |
 | Chicago Price Theory                               | 2019 | Chicago Price Theory, Sonia Jaffe, Robert Minton, Casey B. Mulligan, and Kevin M. Murphy                                                    |
 | Oxford handbook of skill and training              | 2017 | Warhurst, C., Mayhew, K., Finegold, D., & Buchanan, J. (Eds.). (2017). The Oxford handbook of skills and training. Oxford University Press. |
 ---
