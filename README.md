@@ -31,6 +31,7 @@ If you want to contribute to the list with your slides/notes or another publicly
 | Item                                               | Year | Link                                                                                                                        | 
 | :--------------------------------------------------| :--------: | :-------------------------------------------------------------------------------------------------------------------: |
 | Mathematics for Economists                         | 2020 | [YouTube](https://www.youtube.com/watch?v=O2UxL5-2QwU&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=43)                     |
+| Harvard Economics Math Camp                        | 2018 | [Lecture Notes](https://scholar.harvard.edu/files/tsiaras/files/atsiarasmacromathcamp2017.pdf)                              |
 | UC Berkeley PhD Applied Econometrics               | 2024 | [Github Page](https://github.com/borusyak/are213)                                                                           |
 | CMU Structural Econometrics                        | 2024 | [Robert A. Miller ComLabGames](https://comlabgames.com/structuraleconometrics/)                                             |
 | Stanford Natural Language Processing with Deep Learning   | Each Year | [Course Page](https://web.stanford.edu/class/cs224n/)                                                           |
@@ -45,6 +46,7 @@ If you want to contribute to the list with your slides/notes or another publicly
 | Handbook of Labor Economics 4AB                    | 2010 | Ashenfelter, Orley and Card, David, (2011), Handbook of Labor Economics, vol. 4A/4B, 1 ed., Elsevier                                        |
 | Labor Economics, 2nd Edition                       | 2014 | Labor Economics, Second Edition By Pierre Cahuc, Stéphane Carcillo and André Zylberberg                                                     |
 | Recursive Macroeconomic Theory                     | 2018 | Recursive Macroeconomic Theory, Fourth Edition, By Lars Ljungqvist and Thomas J. Sargent                                                    |
+| Recursive Methods in Economic Dynamics             | 1989 | First Edition, by Nancy L. Stokey (Author), Robert E. Lucas Jr. (Author), Edward C. Prescott                                                |
 | Chicago Price Theory                               | 2019 | Chicago Price Theory, Sonia Jaffe, Robert Minton, Casey B. Mulligan, and Kevin M. Murphy                                                    |
 | Oxford handbook of skill and training              | 2017 | Warhurst, C., Mayhew, K., Finegold, D., & Buchanan, J. (Eds.). (2017). The Oxford handbook of skills and training. Oxford University Press. |
 ---
